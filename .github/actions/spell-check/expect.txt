@@ -215,6 +215,7 @@ cim
 CImage
 cla
 CLASSDC
+classmethod
 CLASSNOTAVAILABLE
 CLEARTYPE
 clickable
@@ -364,6 +365,7 @@ DEFAULTFLAGS
 DEFAULTICON
 defaultlib
 DEFAULTONLY
+DEFAULTSIZE
 DEFAULTTONEAREST
 Defaulttonearest
 DEFAULTTONULL
@@ -830,9 +832,11 @@ ITHUMBNAIL
 IUI
 IUWP
 IWIC
+jeli
 jfif
 jgeosdfsdsgmkedfgdfgdfgbkmhcgcflmi
 jjw
+JOBOBJECT
 jobject
 jpe
 jpnime
@@ -1599,7 +1603,7 @@ sharpfuzz
 SHCNE
 SHCNF
 SHCONTF
-Shcore
+shcore
 shellapi
 SHELLDETAILS
 SHELLDLL
@@ -1698,6 +1702,7 @@ srw
 srwlock
 sse
 ssf
+sszzz
 STACKFRAME
 stackoverflow
 STARTF
@@ -1708,6 +1713,7 @@ STARTUPINFOW
 startupscreen
 STATFLAG
 STATICEDGE
+staticmethod
 STATSTG
 stdafx
 STDAPI
@@ -1874,6 +1880,7 @@ uild
 uitests
 UITo
 ULONGLONG
+Ultrawide
 ums
 UMax
 UMin
